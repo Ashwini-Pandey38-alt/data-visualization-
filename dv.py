@@ -1,3 +1,21 @@
+import matplotlib.pyplot as graph
+graph.plot([1,2,3,4,5],[1,2,3,4,5])
+
+
+graph.title('graph')
+graph.xlabel('x-axis')
+graph.ylabel('y-axis')
+
+
+
+
+
+graph.show()
+
+
+
+'''comparison between the movies earning of YRF and T-seris '''
+
 import matplotlib.pyplot as plt
 a=[2002,2003,2004,2005,2006]
 b=[244,674,45,456,565]
